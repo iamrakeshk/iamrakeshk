@@ -17,5 +17,3 @@ Website - [iamrakeshk.github.io](https://iamrakeshk.github.io/)
 ### Projects Link
 
 [Get Key Event Info](https://iamrakeshk.github.io/keyinfo/)
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>
