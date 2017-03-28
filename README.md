@@ -11,7 +11,7 @@ Website - [iamrakeshk.github.io](https://iamrakeshk.github.io/)
 [twitter](https://twitter.com/maarkup)<br>
 [google+](https://plus.google.com/+RakeshKumar-ui-developer)
 
-[DOWNLOAD RESEUME](https://docs.google.com/file/d/0B_BceP9CbirvMHpWNVAtcWk2MkU/view)
+[DOWNLOAD RESEUME](https://docs.google.com/file/d/0B_BceP9CbirvbmRqNkNKMFV1VUk/view)
 
 
 ### Projects Link
